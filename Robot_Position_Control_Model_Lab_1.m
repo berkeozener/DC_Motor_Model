@@ -1,4 +1,4 @@
-%% Vahit Berke Özener NO:79910 ELEC 304 Feedback Control System Lab
+%% Vahit Berke Özener 
 clc
 clear all
 close all
