@@ -1,4 +1,4 @@
-%% Vahit Berke Özener 
+%% Berke Özener 
 clc
 clear all
 close all
